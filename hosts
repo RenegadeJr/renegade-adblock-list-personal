@@ -1,0 +1,46 @@
+# Description: This list disables TikTok, Rednote, Lemon8
+
+# [TikTok] - disabled FOR NOW!
+#0.0.0.0 tiktok.com
+#0.0.0.0 tiktokcdn.com
+#0.0.0.0 byteoversea.com
+#0.0.0.0 byteoversea.net
+#0.0.0.0 snssdk.com
+#0.0.0.0 p16-tiktokcdn.com
+
+# [Lemon8]
+0.0.0.0 lemon8.com
+0.0.0.0 lemon8cdn.com
+0.0.0.0 byteoversea.com
+0.0.0.0 snssdk.com
+
+# [Xiaohongshu aka Little Red Book aka Red Note]
+0.0.0.0 xiaohongshu.com
+0.0.0.0 www.xiaohongshu.com
+0.0.0.0 api.xiaohongshu.com
+0.0.0.0 sns.xiaohongshu.com
+0.0.0.0 pages.xiaohongshu.com
+
+# Bluesky Domains
+0.0.0.0 bsky.app
+0.0.0.0 blueskyweb.xyz
+0.0.0.0 staging.bsky.app
+0.0.0.0 public.api.bsky.app
+0.0.0.0 social.bsky.app
+
+# Mastodon Domains (Common Instances)
+0.0.0.0 mastodon.social
+0.0.0.0 mastodon.online
+0.0.0.0 mstdn.social
+0.0.0.0 fosstodon.org
+0.0.0.0 toot.cat
+0.0.0.0 mastodon.cloud
+0.0.0.0 mastodon.art
+0.0.0.0 mastodon.xyz
+0.0.0.0 mstdn.io
+0.0.0.0 mastodon.world
+0.0.0.0 mastodon.au
+0.0.0.0 mastodonapp.uk
+0.0.0.0 pawoo.net
+0.0.0.0 techhub.social
+0.0.0.0 tech.lgbt
